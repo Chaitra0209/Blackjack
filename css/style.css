@@ -7,6 +7,14 @@ a {
   color: #00B7FF;
 }
 
+/*for Korperind Blackjack heading*/
+h1 {
+  font-family: 'Lobster', cursive; 
+  font-weight: 200;
+  font-size: 60px;
+}
+
+
 table tr td,th{
     border: 1px solid black;
    padding: 5px;
