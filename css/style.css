@@ -12,6 +12,7 @@ h1 {
   font-family: 'Lobster', cursive; 
   font-weight: 200;
   font-size: 60px;
+  margin-top: -20px;
 }
 
 
@@ -37,6 +38,16 @@ span.a-half{
   background-image: url(../images/cards.png);
   opacity: 1;
   display: block;
+}
+
+span.b {
+position: inherit;
+   width: 73px;
+  height: 97px;
+  background-image: url(../images/closed card.jpg);
+  opacity: 1;
+  display: block;
+
 }
 
 /* Clubs */
